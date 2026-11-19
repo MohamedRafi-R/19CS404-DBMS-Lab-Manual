@@ -78,6 +78,7 @@ END;
 
 **Output:**  
 The program should display the employee details or an error message.
+<img width="735" height="305" alt="image" src="https://github.com/user-attachments/assets/58f96f3c-59f3-4e6d-aeef-c8aef69b4b8c" />
 
 ---
 
@@ -97,6 +98,7 @@ The program should display the employee details or an error message.
 
 **Output:**  
 The program should display the employee details within the specified salary range or an error message if no data is found.
+<img width="757" height="340" alt="image" src="https://github.com/user-attachments/assets/24fe5180-4195-4955-9780-8be6c1145ca9" />
 
 ---
 
@@ -116,6 +118,7 @@ The program should display the employee details within the specified salary rang
 
 **Output:**  
 The program should display employee names with their department numbers or the appropriate error message if no data is found.
+<img width="753" height="315" alt="image" src="https://github.com/user-attachments/assets/04ce6a29-6068-4632-8350-964da1a3dcb0" />
 
 ---
 
@@ -135,6 +138,7 @@ The program should display employee names with their department numbers or the a
 
 **Output:**  
 The program should display employee records or the appropriate error message if no data is found.
+<img width="743" height="321" alt="image" src="https://github.com/user-attachments/assets/2f3f7dcb-2f17-4da6-bc72-f8e2e0304096" />
 
 ---
 
@@ -154,6 +158,7 @@ The program should display employee records or the appropriate error message if 
 
 **Output:**  
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
+<img width="736" height="323" alt="image" src="https://github.com/user-attachments/assets/c0b68a76-4ed8-48f9-9ffa-ebd5e64d48db" />
 
 ---
 
